@@ -1,0 +1,2 @@
+# TextHello_git
+测试Eclipse的git能否push到github
